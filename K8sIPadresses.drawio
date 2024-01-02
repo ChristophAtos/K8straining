@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T16:11:09.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qWW0VUt6CCEpORwwBALM" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T16:12:51.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TBKZV11PkN3kY4QW1UNj" version="22.1.16" type="github">
   <diagram name="Page-1" id="FAYloSDTTYDVObzhy5Y4">
     <mxGraphModel dx="792" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -25,11 +25,11 @@
         <mxCell id="CQpjlojAlUkrmzfvVUWV-15" value="nginx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="569" y="-727" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U2d46kxrICk_3sjSinEn-1" value="&lt;span style=&quot;color: rgb(17, 24, 39); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Pod &lt;/b&gt;10.244.0.1&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-30;" parent="1" vertex="1">
-          <mxGeometry x="473.51" y="-764.55" width="99" height="27" as="geometry" />
+        <mxCell id="U2d46kxrICk_3sjSinEn-1" value="&lt;b style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;Node &lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;10.244.0.1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-30;" parent="1" vertex="1">
+          <mxGeometry x="473.51" y="-762.55" width="99" height="27" as="geometry" />
         </mxCell>
         <mxCell id="U2d46kxrICk_3sjSinEn-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-865" width="600" height="330" as="geometry" />
+          <mxGeometry x="85" y="-872.2" width="600" height="330" as="geometry" />
         </mxCell>
         <mxCell id="U2d46kxrICk_3sjSinEn-3" value="&lt;b&gt;ClusterIP&amp;nbsp;&lt;/b&gt;10.96.0.0/16&lt;b&gt;&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="419" y="-865" width="150" height="30" as="geometry" />
