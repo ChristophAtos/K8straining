@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T14:38:50.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LrSWbadp1uKLGjT7d9oM" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T14:46:50.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OzD4lEt7a2awVAvS5jbZ" version="22.1.16" type="github">
   <diagram name="Seite-1" id="jeGA309tM_Pmz6PZl_fr">
     <mxGraphModel dx="2288" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,6 +162,18 @@
         </mxCell>
         <mxCell id="uhBC-W7u06bS9tVhb8Yy-75" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
           <mxGeometry x="401.88" y="779.82" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uhBC-W7u06bS9tVhb8Yy-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uhBC-W7u06bS9tVhb8Yy-77" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="-62.84999999999991" y="518" width="31.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uhBC-W7u06bS9tVhb8Yy-78" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;RG-TF-STATE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-45.11999999999991" y="522" width="89.42" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uhBC-W7u06bS9tVhb8Yy-82" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;imageBackground=default;" vertex="1" parent="1">
+          <mxGeometry x="3.8700000000000045" y="552" width="35" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
