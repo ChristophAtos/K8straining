@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T10:19:17.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7shJpgSmHYmnZRZceHEx" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T12:02:30.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NtRi5-dC8vYL2F7dnGp4" version="22.1.16" type="github">
   <diagram name="Page-1" id="ux_PUUvleqaBWZlEBw-f">
     <mxGraphModel dx="792" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,11 +25,11 @@
         <mxCell id="RruQv3TNjF2r6rg1G-1i-7" value="nginx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="569" y="-727" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RruQv3TNjF2r6rg1G-1i-8" value="&lt;b style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;Node &lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;10.244.0.1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-30;" parent="1" vertex="1">
+        <mxCell id="RruQv3TNjF2r6rg1G-1i-8" value="&lt;b style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;Pod&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;10.244.0.1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-30;" parent="1" vertex="1">
           <mxGeometry x="473.51" y="-762.55" width="99" height="27" as="geometry" />
         </mxCell>
         <mxCell id="RruQv3TNjF2r6rg1G-1i-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="85" y="-872.2" width="600" height="330" as="geometry" />
+          <mxGeometry x="90" y="-865" width="600" height="330" as="geometry" />
         </mxCell>
         <mxCell id="RruQv3TNjF2r6rg1G-1i-10" value="&lt;b&gt;ClusterIP&amp;nbsp;&lt;/b&gt;10.96.0.0/16&lt;b&gt;&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="419" y="-865" width="150" height="30" as="geometry" />
